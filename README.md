@@ -44,6 +44,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For any inquiries or support, feel free to contact the project maintainer:
 
-[Your Name]  
-[Your Email]  
-[Your Website/Portfolio]
+Bazirakye Tonny  
+bazirakyetonny15@gmail.com  
+
