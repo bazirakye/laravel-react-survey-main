@@ -8,7 +8,7 @@ This project is a full-stack web application developed using Laravel, React, and
 - **Survey Distribution:** Surveys can be shared via unique URLs or embedded in other websites.
 - **Response Collection:** Responses to surveys are collected and stored securely in the database.
 - **User Authentication:** Secure user authentication system is implemented to ensure that only authorized users can create surveys and view responses.
-- **Dashboard:** Users have access to a dashboard where they can manage their surveys, view response analytics, and export response data.
+- **Dashboard:** Users have access to a dashboard where they can manage their surveys, view response analytics.
 - **Responsive Design:** The application is designed to be responsive and work seamlessly across different devices and screen sizes.
 
 ## Technologies Used
@@ -28,7 +28,7 @@ This project is a full-stack web application developed using Laravel, React, and
 6. Generate an application key by running `php artisan key:generate`.
 7. Run migrations to create the necessary database tables: `php artisan migrate`.
 8. Start the Laravel development server: `php artisan serve`.
-9. In another terminal, navigate to the `resources/client` directory.
+9. In another terminal, navigate to the `react` directory.
 10. Start the React development server: `npm start` or `yarn start`.
 11. Access the application in your web browser at `http://localhost:3000`.
 
